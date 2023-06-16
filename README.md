@@ -20,7 +20,9 @@
 | 2   | 12   | 8   | 10   |
 
 ### ER-Model
+![ER-Model](/ER-Model.png)
 ### Schema Diagram
+![Schema Diagram](/Schem-Diagram.png)
 
 ## File Structure
 - `APP` : backend
