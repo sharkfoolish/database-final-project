@@ -39,3 +39,6 @@
 3. Controller 依據需要用到的資料呼叫相對應的 Model::static-function()
 4. 利用 Controller::response(data)，轉換成 JSON 格式傳送給 Frontend
 
+### Frontend Demo
+![Frontend Demo](/Frontend-Demo.jpeg)
+
