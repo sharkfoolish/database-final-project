@@ -3,7 +3,7 @@
 namespace Environment;
 
 class App {
-    public static string $NAME = '餐廳點餐系統';
+    public static string $NAME = '資料庫期末專案';
 }
 
 
